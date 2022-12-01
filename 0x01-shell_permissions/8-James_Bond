@@ -1,2 +1,2 @@
 #!/bin/bash
-chmpd 007
+chmpd 007 hello
