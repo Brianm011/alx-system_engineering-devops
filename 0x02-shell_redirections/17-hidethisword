@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -V "bin" /tc/passwd
+egrep -v "bin" /tc/passwd
